@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Guru Piket MA PLUS Ma'hadul Muta'allimin",
+  "description": "Sistem informasi pengelolaan guru piket harian, monitoring KBM, rekap absensi siswa, ketertiban, dan pelaporan madrasah terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

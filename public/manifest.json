@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Sistem Guru Piket MA PLUS Ma'hadul Muta'allimin",
+  "short_name": "PiketMAPLUS",
+  "description": "Sistem informasi pengelolaan guru piket harian, monitoring KBM, absensi siswa, dan pelaporan madrasah terintegrasi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F6FB",
+  "theme_color": "#064E3B",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/MAPLUSLOGO.jpg.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/MAPLUSLOGO.jpg.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/MAPLUSLOGO.jpg.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
